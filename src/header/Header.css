@@ -1,0 +1,8 @@
+.header{
+    border: 5px double pink;
+    color: chartreuse;
+}
+.subheading{
+    text-decoration: underline;
+    text-align: center;
+}
